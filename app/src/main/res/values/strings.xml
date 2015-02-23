@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Guide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+    <string name="terminology_button">Terminology</string>
+    <string name="websites_button">Websites</string>
+    <string name="web_help">Select A Link To Begin Learning Android: </string>
+    <string name="term_help">Type Your Desired Definition</string>
+    <string name="termInfo">The terminology button provides android terms.
+    When an individual term is pressed, the corresponding definition is displayed</string>
+    <string name="webInfo">The website button provides 12 links to begin learning android
+    development.</string>
+    <string name="myName">Name: Eric Da Costa</string>
+    <string name="studID">Student #: 027-042-126</string>
+
+
+    <string-array name="terms">
+        <item>adb</item>
+        <item>emulator</item>
+        <item>android</item>
+        <item>screenshot2</item>
+        <item>gradle</item>
+        <item>pm</item>
+        <item>lint</item>
+        <item>src/main</item>
+        <item>build/outputs</item>
+        <item>res/layout</item>
+        <item>res/values</item>
+        <item>project</item>
+        <item>panel</item>
+        <item>toolbar</item>
+        <item>status bar</item>
+        <item>preview pane</item>
+        <item>android pane</item>
+        <item>project explorer</item>
+        <item>.idea folder</item>
+        <item>intellisense</item>
+        <item>module</item>
+        <item>live layout</item>
+        <item>init</item>
+        <item>commit</item>
+        <item>push</item>
+        <item>add</item>
+        <item>pull</item>
+        <item>branch</item>
+        <item>clone</item>
+    </string-array>
+
+    <string-array name="definitions">
+        <item>Android Developer Bridge allows access to the virtual device </item>
+        <item>Used to display virtual devices</item>
+        <item>Used to access Android Studio</item>
+        <item>Takes a screenshot of the virtual device</item>
+        <item>Build tool for Android applications</item>
+        <item>Manages packages(e.g. Un/Install)</item>
+        <item>Displays build errors from gradle</item>
+        <item>Contains all application source files</item>
+        <item>Contains an application\'s release/debug packages as well as lint files</item>
+        <item>Contains XML files that determine how an application will be displayed</item>
+        <item>Contains XML files that contain resource values</item>
+        <item>Different applications are organized into Android Studio projects</item>
+        <item>Used to separate different windows in Android Studio</item>
+        <item>Contains tools that can be used to access Android Studio features</item>
+        <item>Shows the results of build processes</item>
+        <item>Allows you to see how your applications would be displayed on your AVD</item>
+        <item>Allows you to interact with the virtual device(e.g. take a screenshot)</item>
+        <item>Shows all files relevant to the current project</item>
+        <item>Used to set project settings</item>
+        <item>Shows text-based errors that would result in a bad build</item>
+        <item>A small component of an application. Used in tandem with other modules</item>
+        <item>Allows you to view an applications interface without the need to run it</item>
+        <item>Creates a new empty repository or overwrites an existing repository </item>
+        <item>Allows for changes to a repository</item>
+        <item>Allows project references to be updated</item>
+        <item>Upload specified files to git repository</item>
+        <item>Update the project by using external files other repositories or branches</item>
+        <item>Shows all available, while also allowing for creation and deletion of others</item>
+        <item>Copies existing repository into a new directory</item>
+    </string-array>
+
+    <string-array name="websites">
+        <item>https://developer.android.com/training/index.html</item>
+        <item>http://www.tutorialspoint.com/android/</item>
+        <item>http://www.raywenderlich.com/78574/android-tutorial-for-beginners-part-1</item>
+        <item>http://www.vogella.com/tutorials/Android/article.html</item>
+        <item>http://www.codelearn.org/android-tutorial</item>
+        <item>http://www.lynda.com/Android-training-tutorials/947-0.html</item>
+        <item>http://developer.xamarin.com/guides/android/getting_started/hello,android/</item>
+        <item>http://www.xda-developers.com/free-android-development-tutorials-on-linux-com/</item>
+        <item>http://teamtreehouse.com/library/build-a-simple-android-app</item>
+        <item>http://www.javacodegeeks.com/tutorials/android-tutorials/android-game-tutorials/</item>
+        <item>http://www.kilobolt.com/game-development-tutorial.html</item>
+        <item>http://www.codeproject.com/Articles/102065/Android-A-beginner-s-guide</item>
+    </string-array>
+
+</resources>
